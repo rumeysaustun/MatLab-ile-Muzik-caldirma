@@ -82,3 +82,4 @@ nakarat1 = [b,k9,k10,b,k11];
 nakarat2 = [b,k9,k10,k12,k13,k14];
 son = [b,k9,k10,k12,k13,k15];
 muzik = [a,a,k5,k6,nakarat1,nakarat2,nakarat1,nakarat2,son];
+sound(muzik);
